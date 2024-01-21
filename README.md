@@ -76,4 +76,4 @@ Dataset
 
 # Test 
 ![Imgur](https://i.imgur.com/NmsMfuj.png)
-![Imgur](https://hackmd.io/_uploads/Bk9VkH9Ya.jpg =30%x)
+![Imgur](https://hackmd.io/_uploads/Bk9VkH9Ya.png)
