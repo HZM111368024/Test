@@ -40,7 +40,7 @@ To use this program, place your dataset in the specified directory.
 Run the program, and it will process each image, extracting labels from the corresponding .txt files. The labels are then converted into polygon contours, and the resulting contours are saved as new .txt files.
 # Dataset Structure
 
-```shell=
+```
 Dataset
 |__ train
 |   |__ images
